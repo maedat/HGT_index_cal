@@ -11,7 +11,7 @@ HGT_index_cal calculte Horizontal gene transfer index "h" and the modified index
 
 ## Usage
 ```sh
-Usage: aliva.py Rscript HGT_index.R dataA1 dataA2 dataB1 dataB2 type_name
+Usage: Rscript HGT_index.R dataA1 dataA2 dataB1 dataB2 type_name
 
 dataA1-2; blast output (fmt6 format) for hA index calculation 
 (e.g. A1=result against algal database, A2=result against animal database)
