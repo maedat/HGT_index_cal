@@ -35,7 +35,8 @@ Apca
 
 
 ## Licence
-[MIT License](http://opensource.org/licenses/mit-license.php)
+# License
+The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
 
 ## Author
 [Taro Maeda](https://github.com/maedat)
