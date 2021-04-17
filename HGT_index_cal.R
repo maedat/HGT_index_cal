@@ -1,3 +1,6 @@
+#Copyright (c) 2021 Taro Maeda
+#This software is released under the MIT License, see LICENSE.
+
 library(tidyverse)
 
 ### Usage
